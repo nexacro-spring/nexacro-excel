@@ -31,17 +31,10 @@ import com.nexacro.xeni.util.Constants;
  *      xeni.multipart.proc=com.nexacro.spring.servlet.XeniMultipartHandler 이름으로 등록 가능하다.
  * </pre>
  *
- * @ClassName   : XeniMultipartHandler.java
  * @author Park SeongMin
  * @since 2015. 8. 24.
  * @version 1.0
  * @see
- * @Modification Information
- * <pre>
- *     since          author              description
- *  ===========    =============    ===========================
- *  2015. 8. 24.     Park SeongMin     최초 생성
- * </pre>
  */
 
 public class XeniMultipartHandler implements XeniMultipartProcBase  {
