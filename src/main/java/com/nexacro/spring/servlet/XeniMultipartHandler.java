@@ -32,11 +32,10 @@ import com.nexacro.xeni.util.Constants;
  * </pre>
  *
  * @author Park SeongMin
- * @since 2015. 8. 24.
+ * @since 08.24.2015
  * @version 1.0
- * @see
+ * @see XeniMultipartProcBase
  */
-
 public class XeniMultipartHandler implements XeniMultipartProcBase  {
 
     private Logger logger = LoggerFactory.getLogger(XeniMultipartHandler.class);
