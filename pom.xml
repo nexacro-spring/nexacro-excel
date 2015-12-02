@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.nexacro.spring</groupId>
 	<artifactId>nexacro-excel</artifactId>
-	<version>${project.parent.version}</version>
+	<version>1.0.0</version>
 	<name>nexacro-excel</name>
 	<description>nexacro excel with nexacro-xeni</description>
 
